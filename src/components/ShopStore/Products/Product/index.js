@@ -9,7 +9,7 @@ const Product = props => {
         <Link to={`${url}/${props.slug}`}>
             <div className="Product">
                 <div className="ProductImage">
-                    <img alt="" src={props.productPic[0].img} />
+                    >
                 </div>
                 <div className="ProductDetails">
                     <p>{props.name}</p>

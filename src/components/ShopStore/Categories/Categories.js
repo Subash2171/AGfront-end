@@ -11,19 +11,19 @@ const Categories = prosp => {
                         <a href="#">Accessories</a>
                     </span>
                     <ul>
-                        <li><a href="#">Handbags</a></li>
-                        <li><a href="#">Shoes</a></li>
-                        <li><a href="#">Watches</a></li>
+                        <li><a href="#">Tools</a></li>
+                        <li><a href="#">Seed </a></li>
+                        <li><a href="#">Acloustic</a></li>
                     </ul>
                 </li>
                 <li>
                     <span>
-                        <a href="#">Shirt & Tops</a>
+                        <a href="#"></a>
                     </span>
                 </li>
                 <li>
                     <span>
-                        <a href="#">Swimsuits</a>
+                        <a href="#"></a>
                     </span>
                 </li>
             </ul>

@@ -9,7 +9,7 @@ import SubmitGradientButton from '../../components/UI/SubmitGradientButton';
 import * as authActions from '../../store/actions/authActions';
 import { connect } from 'react-redux';
 import Error from '../../components/Error';
-
+import Header from '../../components/Header/Header';
 
 class Login extends Component {
 
